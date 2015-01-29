@@ -8,3 +8,5 @@
 * Bullet4a Test2
 
 Please note that these changes were made directly in Git Hub, not pushed from the local repo.
+
+From local repo: this is my demo.
