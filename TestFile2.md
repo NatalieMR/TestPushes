@@ -6,3 +6,5 @@
 *Bullet3_Test1
 * Bullet4 Test2
 * Bullet4a Test2
+
+Please note that these changes were made directly in Git Hub, not pushed from the local repo.
